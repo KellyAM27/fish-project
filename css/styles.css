@@ -5,3 +5,8 @@
 .unimportant {
   color: blue;
 }
+
+.highlight  {
+  font-style: italic;
+  color:  green;
+}
